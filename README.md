@@ -4,85 +4,121 @@
   <img src="https://komarev.com/ghpvc/?username=lahat-fall&color=blue" alt="Profile views" />
 </p>
 
-# 👋 Salut, je suis **Lahat Fall**
+<p align="center">
+  <strong>LAHAT FALL</strong> · they/them  
+  Analyste SOC Niveau I | Cybersécurité & Criminalistique Numérique  
+  B.Sc. @ UQAC | Dev Python | Spécialiste en cybersécurité défensive & détection d’intrusion  
+</p>
 
-**Étudiant en cybersécurité & Expert Forensic**  
-🎓 B.Sc. en Informatique, spécialisation Sécurité des Réseaux (UQAC, avril 2025)  
-🔬 Stagiaire en cybersécurité – audit ISO/IEC 27005 (UQAC)  
-
----
-
-## 🔭 Je travaille actuellement sur
-
-- **FlavoPay** : application de paiement en ligne conteneurisée (Flask, PostgreSQL, Redis, RQ, Docker)  
-- **BayesianRisk** : moteur d’évaluation de risque par réseaux bayésiens (pgmpy, pyAgrum)  
-- **ForensicMemoryAnalysis** : pipelines Volatility pour extraction et analyse de preuves mémoire  
-- **SuricataDashboard** : tableau de bord ELK + Suricata pour le monitoring IDS  
+<p align="center">
+  <a href="https://www.facebook.com/?locale=fr_FR" target="_blank">Facebook</a> ·
+  <a href="https://www.instagram.com/_lahat_fall_" target="_blank">Instagram</a> ·
+  <a href="https://www.linkedin.com/in/lahat-fall-569900300" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
-## 💼 Expériences professionnelles
+## 👋 À propos de moi
 
-**Technicien informatique** – Bell Canada (Montréal, QC)  
-Avril 2023 – Janvier 2024  
-- Gestion du parc informatique, support technique de niveau 1  
-- Analyse d’incidents de sécurité, application de correctifs, gestion des accès  
-- Participation à plus de 120 tickets, réduction des temps de réponse de 35 %
+Étudiant en cybersécurité défensive & Expert Forensic, passionné par la protection des infrastructures et la détection d’intrusion. Actuellement en B.Sc. Informatique (Sécurité des réseaux) à l’UQAC.
 
-**Technicien SI** – Hôtel Chicoutimi (Chicoutimi, QC)  
-Février 2023 – Février 2024  
-- Gestion du réseau interne et sécurisation du Wi-Fi  
-- Implémentation d’une politique de sauvegarde sur 100 % des postes  
-- Renforcement des contrôles d’accès et documentation technique
+---
 
-**Stagiaire en cybersécurité** – UQAC (Chicoutimi, QC)  
-Septembre 2024 – Décembre 2024  
-- Audit de sécurité complet d’une application web universitaire  
-- Utilisation de CVSS, pgmpy, ELK Stack et Suricata  
-- Rédaction d’un rapport conforme aux normes ISO/IEC 27005  
+## 🔭 Projets en cours
+
+- **SuricataDashboard** : tableau de bord ELK + Suricata pour monitoring IDS  
+- **BayesianRisk** : prédiction de menaces pour renforcer la posture défensive  
+- **NetworkHardening** : script d’automatisation de configuration sécurisée de firewalls  
+- **ForensicMemoryAnalysis** : pipelines Volatility pour réponse aux incidents  
+
+---
+
+## 🛡️ Compétences en cybersécurité défensive
+
+- Conception et renforcement d’architectures réseau sécurisées  
+- Configuration et gestion de pare-feux (pfSense, Cisco ASA, Palo Alto)  
+- Déploiement et tuning de SIEM (Splunk, ELK Stack, Wazuh)  
+- Surveillance et analyse de trafic réseau (Zeek, Wireshark, tcpdump)  
+- Détection et prévention d’intrusion (Suricata, Snort, OSSEC)  
+- Gestion des vulnérabilités et audits réguliers (CVSS, EPSS, pratiques CIS/NIST)  
+- Réponse aux incidents et forensic numérique (Volatility, FTK Imager)  
+- Threat hunting et analyse proactive (YARA, RITA)  
+- Sécurité Cloud et segmentation (Azure Security Center, AWS Security Hub)  
+- Standards et bonnes pratiques : ISO 27001/27005, OWASP Top 10  
+
+---
+
+## 🔧 Outils d’audit de sécurité réseau
+
+- **Scanners de vulnérabilités** : Nessus, OpenVAS, Qualys  
+- **Web Application Firewalls (WAF)** : ModSecurity, AWS WAF, Azure WAF, Cloudflare WAF, F5 ASM, NGINX ModSecurity  
+- **Port scanners & discovery** : Nmap, Masscan  
+- **Analyse de paquets** : Wireshark, tcpdump  
+- **IDS/IPS** : Suricata, Snort, Zeek  
+- **Audits de configuration** : CIS-CAT, Lynis, Nipper Studio  
+- **SIEM & log management** : Splunk, ELK Stack, Wazuh  
+- **Automatisation & scripting** : Ansible, Python (Scapy, Netmiko)  
+
+---
+
+## 📚 Projets académiques
+
+- **Prototype logiciel d'une approche prédictive des risques de sécurité**  
+- **Surveillance IDS maison** : déploiement Suricata + ELK pour réseau domestique  
+
+---
+
+## 💼 Expérience professionnelle
+
+**Analyste SOC Niveau I** | Gendarmerie Nationale du Sénégal  
+_Janv. 2025 – aujourd’hui_  
+- Surveillance 24/7 des alertes SIEM, triage & investigation initiale  
+- Automatisation de playbooks défensifs en Python  
+
+**Stagiaire en cybersécurité** | UQAC (Chicoutimi, QC)  
+_Sept. 2024 – Déc. 2024_  
+- Mise en place d’un SOC basique (ELK & Suricata)  
+- Audit de sécurité d’application web  
+
+**Technicien informatique** | Bell Canada (Montréal, QC)  
+_Avr. 2023 – Jan. 2024_  
+- Support N1 & gestion de parc (+120 tickets)  
+- Analyse d’incidents & déploiement de correctifs (-35% temps de résolution)  
+
+**Technicien SI** | Hôtel Chicoutimi (Chicoutimi, QC)  
+_Fév. 2023 – Fév. 2024_  
+- Administration réseau (VLAN, Wi-Fi) & sauvegardes 100%  
+- Documentation & formation du personnel  
 
 ---
 
 ## 🏅 Certifications
 
-- **Introduction to Network Automation** (Cisco / Coursera)  
-  Obtenu le 11 mai 2024 —  
-  [Vérifier la certification](https://coursera.org/share/27dfaef120cecd880a91702c8ae65c29)  
+- **Introduction to Network Automation** (Cisco / Coursera) – mai 2024  
+
+### En cours
+
+- **CompTIA Security+ (SY0-601)** – en cours  
+- **Microsoft AZ-900: Azure Fundamentals** – en cours  
+- **Microsoft SC-900: Security, Compliance, and Identity Fundamentals** – en cours  
+- **Microsoft AZ-500: Azure Security Technologies** – en cours  
 
 ---
 
 ## 🎓 Formation
 
 **Université du Québec à Chicoutimi (UQAC)**  
-Baccalauréat en informatique – Spécialisation en sécurité des réseaux  
-Prévu en avril 2025  
-
----
-
-## 🛠️ Compétences techniques
-
-- **Cybersécurité :** CVSS, EPSS, Kali Linux, Burp Suite, Metasploit, tests d'intrusion (Pentest), audits ISO 27001/27005, SIEM (Splunk, ELK Stack), réponse aux incidents, forensic numérique (Volatility, FTK Imager), reverse engineering (Ghidra), analyse de malware, gestion des vulnérabilités, cloud security (Azure Security Center, AWS Security Hub), OWASP Top 10  
-- **Réseaux & Systèmes :** VLAN, VPN, pfSense, Windows Server, Linux (Debian/Ubuntu), DNS/DHCP/SSH, virtualisation (VMware, VirtualBox, Proxmox)  
-- **Développement :** Python (Flask), Bash, SQL (SQLite, PostgreSQL), APIs REST, Git, tests (Pytest, unittest)  
-- **Outils :** Nessus, Wireshark, Nmap, ELK Stack, Docker, Azure (notions)  
-
----
-
-## 📚 Projets académiques
-
-- **Évaluation des risques avec réseaux bayésiens** : modélisation pgmpy, analyse NIST, prédiction des menaces  
-- **FlavoPay** : application de paiement en ligne (Flask, PostgreSQL, Redis, RQ, Docker)  
-- **Audit de sécurité d’un SI virtuel** : test de pénétration, sécurisation des accès, recommandations techniques
+Baccalauréat en informatique – Sécurité des réseaux (avril 2025)  
 
 ---
 
 ## 🌐 Langues
 
-- Français : langue maternelle  
-- Anglais : intermédiaire professionnel
+- Français (langue maternelle)  
+- Anglais (intermédiaire professionnel)  
 
 ---
 
 ## 🎯 Centres d’intérêt
 
-Cybersécurité, IoT, robotique, programmation, veille technologique
+Cybersécurité défensive · Threat Hunting · Automatisation · Forensic · Veille technologique  
