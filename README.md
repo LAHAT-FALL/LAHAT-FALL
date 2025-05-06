@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>LAHAT FALL</strong> · they/them  
+  <strong>LAHAT FALL CHERI alima </strong> · they/them  
   Analyste SOC Niveau I | Cybersécurité & Criminalistique Numérique  
   B.Sc. @ UQAC | Dev Python | Spécialiste en cybersécurité défensive & détection d’intrusion  
 </p>
