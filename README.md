@@ -1,124 +1,126 @@
 <!-- README.md de Lahat Fall – Profil GitHub -->
+<!-- Version Premium & Modernisée -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lahat-fall&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <strong>Lahat Fall  </strong> · they/them  
-  Analyste SOC Niveau I | Cybersécurité & Criminalistique Numérique  
-  B.Sc. @ UQAC | Dev Python | Spécialiste en cybersécurité défensive & détection d’intrusion  
-</p>
+<h1 align="center">🧠 Lahat Fall</h1>
+<h3 align="center">
+  Analyste SOC | Forensic Investigator | Cyber Defense Engineer  
+  <br>
+  B.Sc. Informatique – Sécurité des Réseaux @ UQAC  
+</h3>
 
 <p align="center">
-  <a href="https://www.facebook.com/?locale=fr_FR" target="_blank">Facebook</a> ·
+  <a href="https://www.linkedin.com/in/lahat-fall-569900300" target="_blank">LinkedIn</a> ·
   <a href="https://www.instagram.com/_lahat_fall_" target="_blank">Instagram</a> ·
-  <a href="https://www.linkedin.com/in/lahat-fall-569900300" target="_blank">LinkedIn</a>
+  <a href="https://www.facebook.com/?locale=fr_FR" target="_blank">Facebook</a>
 </p>
 
 ---
 
-## 👋 À propos de moi
+## ⚡ À propos de moi
 
-Étudiant en cybersécurité défensive & Expert Forensic, passionné par la protection des infrastructures et la détection d’intrusion. Actuellement en B.Sc. Informatique (Sécurité des réseaux) à l’UQAC.
+> *“La cybersécurité n’est pas une bataille contre la technologie, mais une compréhension des comportements numériques.”*
 
----
+🎯 **Ingénieur en cybersécurité défensive** et **analyste forensic**, je conçois, déploie et optimise des environnements **SOC open-source** reposant sur **Wazuh, Elastic Security, Suricata, Zeek et TheHive**.  
+Mon approche intègre la **détection comportementale**, la **corrélation MITRE ATT&CK**, et la **cyber threat intelligence (CTI)** pour créer des **architectures de défense adaptatives** et **IA-assistées**.
 
-## 🔭 Projets en cours
+🧠 Fondateur du projet **Wazuh SCA AI Analyst**, un moteur d’analyse **LLM offline** qui interprète et explique les audits de sécurité.  
+Je cherche à transformer la sécurité opérationnelle en **science de la détection proactive**.
 
-- **SuricataDashboard** : tableau de bord ELK + Suricata pour monitoring IDS  
-- **BayesianRisk** : prédiction de menaces pour renforcer la posture défensive  
-- **NetworkHardening** : script d’automatisation de configuration sécurisée de firewalls  
-- **ForensicMemoryAnalysis** : pipelines Volatility pour réponse aux incidents  
-
----
-
-## 🛡️ Compétences en cybersécurité défensive
-
-- Conception et renforcement d’architectures réseau sécurisées  
-- Configuration et gestion de pare-feux (pfSense, Cisco ASA, Palo Alto)  
-- Déploiement et tuning de SIEM (Splunk, ELK Stack, Wazuh)  
-- Surveillance et analyse de trafic réseau (Zeek, Wireshark, tcpdump)  
-- Détection et prévention d’intrusion (Suricata, Snort, OSSEC)  
-- Gestion des vulnérabilités et audits réguliers (CVSS, EPSS, pratiques CIS/NIST)  
-- Réponse aux incidents et forensic numérique (Volatility, FTK Imager)  
-- Threat hunting et analyse proactive (YARA, RITA)  
-- Sécurité Cloud et segmentation (Azure Security Center, AWS Security Hub)  
-- Standards et bonnes pratiques : ISO 27001/27005, OWASP Top 10  
+💡 **Spécialités** : SOC Engineering · Forensic numérique · Threat Hunting · CTI · Data Science for Security · Automatisation défensive
 
 ---
 
-## 🔧 Outils d’audit de sécurité réseau
+## 🚀 Projets en cours
 
-- **Scanners de vulnérabilités** : Nessus, OpenVAS, Qualys  
-- **Web Application Firewalls (WAF)** : ModSecurity, AWS WAF, Azure WAF, Cloudflare WAF, F5 ASM, NGINX ModSecurity  
-- **Port scanners & discovery** : Nmap, Masscan  
-- **Analyse de paquets** : Wireshark, tcpdump  
-- **IDS/IPS** : Suricata, Snort, Zeek  
-- **Audits de configuration** : CIS-CAT, Lynis, Nipper Studio  
-- **SIEM & log management** : Splunk, ELK Stack, Wazuh  
-- **Automatisation & scripting** : Ansible, Python (Scapy, Netmiko)  
-
----
-
-## 📚 Projets académiques
-
-- **Prototype logiciel d'une approche prédictive des risques de sécurité**  
-- **Surveillance IDS maison** : déploiement Suricata + ELK pour réseau domestique  
+| Projet | Description | Stack |
+|--------|--------------|--------|
+| **🛡️ SuricataDashboard** | Intégration Suricata + ELK pour corrélation IDS temps réel | ELK, Suricata, Kibana |
+| **📊 BayesianRisk** | Modèle Bayésien prédictif pour scoring de menaces | Python, Pandas, Scikit-Learn |
+| **⚙️ NetworkHardening** | Automatisation du durcissement réseau et pare-feux | Python, Ansible |
+| **🔍 ForensicMemoryAnalysis** | Pipelines Volatility pour investigation mémoire | Volatility, Sleuth Kit |
+| **🤖 Wazuh SCA AI Analyst** | Assistant IA local multilingue pour audit SCA | Llama-3, Flask, FPDF2 |
 
 ---
 
-## 💼 Expérience professionnelle
+## 🧠 Domaines de compétence
 
-**Analyste SOC Niveau I** | Gendarmerie Nationale du Sénégal  
-_Janv. 2025 – aujourd’hui_  
-- Surveillance 24/7 des alertes SIEM, triage & investigation initiale  
-- Automatisation de playbooks défensifs en Python  
+- 🛰️ **SOC & SIEM Engineering** – Wazuh, Elastic Security, Splunk  
+- 🔍 **Digital Forensics & IR (DFIR)** – Volatility, FTK, Sleuth Kit, Autopsy  
+- 🧠 **Threat Hunting & CTI** – Sigma, YARA, MISP, MITRE ATT&CK  
+- ⚙️ **Automation & SOAR** – Cortex, Shuffle, Python Automation  
+- ☁️ **Cloud Security** – Azure Security Center, AWS Security Hub, IAM, CSPM  
+- 🧾 **Audit & Compliance** – CIS Benchmarks, NIST 800-53, ISO 27001  
+- 🎯 **AI for Cyber Defense** – LLMs, Explainable AI, Data-driven Threat Models  
 
-**Stagiaire en cybersécurité** | UQAC (Chicoutimi, QC)  
+---
+
+## 🧰 Stack Technique
+
+`Python` · `Flask` · `Elastic Stack` · `Wazuh` · `Suricata` · `TheHive` · `Zeek` ·  
+`Cortex` · `Kibana` · `Linux` · `pfSense` · `MITRE Navigator` · `LLM (Llama-3)` · `FPDF2` · `Git`  
+
+---
+
+## 🧪 Expérience Professionnelle
+
+**👁️ Analyste SOC N1** | *Gendarmerie Nationale du Sénégal*  
+_Janv. 2025 – Présent_  
+- Surveillance 24/7 des alertes SIEM (Wazuh, Splunk, Elastic)  
+- Triage et investigation initiale (IOC, MITRE mapping)  
+- Développement de playbooks Python pour la réponse automatisée  
+
+**🧩 Stagiaire en Cybersécurité** | *Université du Québec à Chicoutimi (UQAC)*  
 _Sept. 2024 – Déc. 2024_  
-- Mise en place d’un SOC basique (ELK & Suricata)  
-- Audit de sécurité d’application web  
+- Déploiement d’un SOC open-source basé sur Suricata + ELK  
+- Rédaction de rapports SCA et durcissement de configurations Linux  
 
-**Technicien informatique** | Bell Canada (Montréal, QC)  
+**💼 Technicien Informatique** | *Bell Canada (Montréal)*  
 _Avr. 2023 – Jan. 2024_  
-- Support N1 & gestion de parc (+120 tickets)  
-- Analyse d’incidents & déploiement de correctifs (-35% temps de résolution)  
+- Gestion d’incidents et patching de systèmes critiques  
+- Optimisation du processus de réponse (-35% MTTR)  
 
-**Technicien SI** | Hôtel Chicoutimi (Chicoutimi, QC)  
+**🖥️ Technicien Systèmes** | *Hôtel Chicoutimi*  
 _Fév. 2023 – Fév. 2024_  
-- Administration réseau (VLAN, Wi-Fi) & sauvegardes 100%  
-- Documentation & formation du personnel  
+- Administration VLAN, sauvegardes et supervision des systèmes  
+- Documentation technique et procédures internes  
 
 ---
 
 ## 🏅 Certifications
 
-- **Introduction to Network Automation** (Cisco / Coursera) – mai 2024  
-
-### En cours
-
+- **Cisco – Introduction to Network Automation** (mai 2024)  
 - **CompTIA Security+ (SY0-601)** – en cours  
-- **Microsoft AZ-900: Azure Fundamentals** – en cours  
-- **Microsoft SC-900: Security, Compliance, and Identity Fundamentals** – en cours  
-- **Microsoft AZ-500: Azure Security Technologies** – en cours  
+- **Microsoft AZ-900 / SC-900 / AZ-500** – en cours  
 
 ---
 
 ## 🎓 Formation
 
-**Université du Québec à Chicoutimi (UQAC)**  
-Baccalauréat en informatique – Sécurité des réseaux (avril 2025)  
+🎓 **Université du Québec à Chicoutimi (UQAC)**  
+Baccalauréat en Informatique – Sécurité des Réseaux (2025)
 
 ---
 
 ## 🌐 Langues
 
-- Français (langue maternelle)  
-- Anglais (intermédiaire professionnel)  
+- 🇫🇷 Français — natif  
+- 🇬🇧 Anglais — professionnel  
 
 ---
 
-## 🎯 Centres d’intérêt
+## 💡 Centres d’intérêt
 
-Cybersécurité défensive · Threat Hunting · Automatisation · Forensic · Veille technologique  
+Cybersécurité défensive · Threat Intelligence · Forensic numérique · Automatisation Python · Intelligence Artificielle · Veille technologique avancée  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lahat-fall&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahat-fall&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">⚔️ “La curiosité est la première arme d’un analyste.”</p>
