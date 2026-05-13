@@ -12,7 +12,7 @@
 <h3 align="center">
   Analyste SOC (Junior Avancé) · DFIR · Cyber Defense  
   <br>
-  B.Sc. Informatique – Sécurité des Réseaux (en cours) @ UQAC  
+  B.Sc. Informatique – Sécurité des Réseaux  @ UQAC  
 </h3>
 
 <p align="center">
