@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Disponible-02%20juin%202026-brightgreen" />
   <img src="https://img.shields.io/badge/Localisation-Saguenay%20%7C%20Québec-blue" />
 </p>
-<h1 align="center">Lahat Fall</h1>
+<h1 align="center">LAHAT FALL</h1>
 <h3 align="center">
   Analyste SOC (Junior) · DFIR · Cyber Defense  
   <br>
