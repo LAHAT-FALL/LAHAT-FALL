@@ -10,7 +10,7 @@
 </p>
 <h1 align="center">Lahat Fall</h1>
 <h3 align="center">
-  Analyste SOC (Junior Avancé) · DFIR · Cyber Defense  
+  Analyste SOC (Junior) · DFIR · Cyber Defense  
   <br>
   B.Sc. Informatique – Sécurité des Réseaux  @ UQAC  
 </h3>
